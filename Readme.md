@@ -1,8 +1,6 @@
-# GCP Costs Export
+# GCP Billing Export to BigQuery and Data Studio Visualization
 
 ![image](https://github.com/glauberss2007/FinOps-gcp/assets/22028539/11c61c35-5bc9-45e4-ac5e-d8696d7b3244)
-
-# GCP Billing Export to BigQuery and Data Studio Visualization
 
 ## Overview
 
