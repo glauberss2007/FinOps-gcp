@@ -46,3 +46,7 @@ This guide provides step-by-step instructions on exporting Google Cloud Platform
 - **Data Studio Features:** Explore various features for better visualization and interactivity.
 
 This process allows for effective analysis and visualization of GCP billing data, providing insights for informed decision-making.
+
+## Optionally: Automatic billing export using terraform
+
+Attached you can found a terraform file that can be used to automaticaly configure the billing export to BQ. 
